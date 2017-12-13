@@ -1,0 +1,24 @@
+body {
+	background: #fff;
+}
+div {
+	font-size:40px;
+	border:1px solid red;
+	height:200px;
+}
+ul {
+	li {
+		span {
+			border:1px solid red;
+		}
+	}
+}
+dl{
+	dt {
+		height:100px;
+		border:1px solid red;
+	}
+	dd {
+		border:1px solid blue;
+	}
+}
