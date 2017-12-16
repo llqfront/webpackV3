@@ -18,5 +18,5 @@
 # 其他
 	"start": "webpack-dashboard -- webpack-dev-server --open --config webpack.config.js"
 # 问题交流
-	@硕风和页 llqfront@aliyun.com	
+	@硕风和叶 llqfront@aliyun.com	
 
